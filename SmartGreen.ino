@@ -1,14 +1,4 @@
 /*
- * Created by Pi BOTS MakerHub
- *
- * Email: pibotsmakerhub@gmail.com
- * 
- * Github: https://github.com/pibotsmakerhub
- *
- * Join Us on Telegram : https://t.me/pibots 
- * Copyright (c) 2020 Pi BOTS MakerHub
-*/
-
 // REQUIRES the following Arduino libraries:
 // - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
 // - Adafruit Unified Sensor Lib: https://github.com/adafruit/Adafruit_Sensor
